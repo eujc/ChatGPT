@@ -12,3 +12,5 @@
 <img src="https://raw.githubusercontent.com/eujc/ChatGPT/main/ChatGPT/ChatGPT_02.jpg" />
 
 ### ChatGPT对话网址：https://chat.openai.com/chat
+
+### 电报：https://bit.ly/3F82jM9
