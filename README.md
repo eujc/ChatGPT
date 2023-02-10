@@ -8,6 +8,7 @@
 
 如果你没有国外手机号码，可以使用这个网站接收验证码
 ### 短信验证码网址：https://sms-activate.org/?ref=3730641
+温馨提示：接码网站注册人数较多，确认邮件可能需要等15分钟左右才能收到，邮件有可能会在垃圾邮箱里。
 
 <img src="https://raw.githubusercontent.com/eujc/ChatGPT/main/ChatGPT/ChatGPT_02.jpg" />
 
