@@ -1,4 +1,4 @@
-# 2023最新ChatGPT 注册教程，ChatGPT在中国大陆怎么用？
+# 最新ChatGPT 注册教程，ChatGPT在中国大陆怎么用？
 在中国使用ChatGPT需要使用代理，建议使用美国节点，全局模式翻墙。<br>
 ▶视频教程：https://youtu.be/59UMuPx3HZ4
 
